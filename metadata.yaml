@@ -1,0 +1,34 @@
+_repo: The-Moon-Endureth--Tales-and-Fancies_715
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: ''
+gutenberg_issued: '1996-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Poetry'
+- !lcsh 'Science fiction'
+- GITenberg
+tableOfContents: From the Pentlands looking north and south -- The company of the
+  Marjolaine, Avignon, 1759 -- A lucid interval -- The shorter catechism -- The Lemnian,
+  Atta's song -- Space, Stocks and stones -- Streams of water in the south --The gipsy's
+  song to the Lady Cassilis -- The grove of Ashtaroth, Wood magic -- The riding of
+  Ninemileburn -- Plain folk -- The kings of Orion. Babylon -- The rime of true Thomas.
+title: 'The Moon Endureth: Tales and Fancies'
+url: http://www.gutenberg.org/ebooks/715
